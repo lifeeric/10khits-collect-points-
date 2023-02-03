@@ -2,7 +2,14 @@
 
 Earn points from 10khits.com without even having to use browser!
 
-<iframe width="822" height="472" src="https://www.youtube.com/embed/ryiivap9TlY" title="Hack 10khits to collect points for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=ryiivap9TlY">
+         <img src="https://img.youtube.com/vi/ryiivap9TlY/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+https://www.youtube.com/watch?v=ryiivap9TlY
 
 REWRITE:
 
