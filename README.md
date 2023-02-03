@@ -9,7 +9,6 @@ Earn points from 10khits.com without even having to use browser!
       </a>
 </div>
 
-https://www.youtube.com/watch?v=ryiivap9TlY
 
 REWRITE:
 
