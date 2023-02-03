@@ -14,7 +14,7 @@ do
     
     [[ -z $POINTS ]] && continue
 
-    NUM=$(echo $POINTS | grep -Eo '[0-9]+\.[0-9]+')
+    NUM=$(echo $POINTS | grep -Eo '([0-9]+\.[0-9]+)|([0-9])')
 
     SCRIPT=$(echo $OUTPUT | grep -E -o '<script(.*)<\/script>');
 
