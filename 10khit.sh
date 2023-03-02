@@ -18,7 +18,7 @@ do
 
     SCRIPT=$(echo $OUTPUT | grep -E -o '<script(.*)<\/script>');
 
-    DELAY=$(echo $SCRIPT | grep -E 'setTimeout(.*)' | grep -E -o '}, \d\d\d\d+' | grep -E -o "\d+" );
+    DELAY=$(echo $SCRIPT | grep -E 'setTimeout(.*)' | grep -E -o '}, [0-9]+' | grep -E -o "[0-9]+" );
 
 
     SUM=$(echo $SUM + $NUM | bc -l)
