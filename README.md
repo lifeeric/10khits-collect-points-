@@ -16,11 +16,27 @@ REWRITE:
 
 To get this script running, just do the following:
 
-```
-1. Download the script and open the directory in your favorite editor.
-2. Copy the cURL from the website (as shown in the video) 
-3. paste it to the `curl.sh` file, adding the `-s` flag.
-4. Open the terminal and run `bash ./10khit.sh`.
+
+### 1 Download
+
+Download the script and change the directory into it. open it in your favorite editor
+
+```sh
+$ git clone https://github.com/lifeeric/10khits-collect-points-.git
+$ cd 10khits-collect-points-
 ```
 
-Thanks a bunch!
+### 2 Copy cURL request
+copy the `cURL` request as shown in the video, from the dev developer tool. 
+
+### 3 Paste it 
+now paste the `cURL` request it into `curl.sh` alongwith `-s` flag.
+
+### 4 Run 
+now it's time run the script and collect some points. (assuming you're on unix-system)
+Open the terminal and run 
+```
+`bash ./10khit.sh`.
+``
+
+Thanks a bunch ❤️!
