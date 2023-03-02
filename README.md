@@ -39,4 +39,8 @@ Open the terminal and run
 `bash ./10khit.sh`.
 ``
 
+
+## TESTED on MacOS (bash 5.1.4(1))
+
+
 Thanks a bunch ❤️!
