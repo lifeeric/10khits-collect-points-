@@ -4,7 +4,7 @@ echo ""
 echo "[STARTED SURFING]"
 
 SUM=0
-for i in {1..1000}
+while true;
 do
     OUTPUT=$(source curl.sh)
     
