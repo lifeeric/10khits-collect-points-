@@ -36,11 +36,12 @@ now paste the `cURL` request it into `curl.sh` alongwith `-s` flag.
 now it's time run the script and collect some points. (assuming you're on unix-system)
 Open the terminal and run 
 ```
-`bash ./10khit.sh`.
+bash ./10khit.sh
 ``
 
 
 ## TESTED on MacOS (bash 5.1.4(1))
+
 
 
 Thanks a bunch ❤️!
